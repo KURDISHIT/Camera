@@ -21,6 +21,8 @@ dgray = "\033[1;30m"
 ir = "\033[0;101m" 
 reset = "\033[0m"
 
+
+
 def main(): 
     os.system('clear')
     print("{} ____ ").format(r)
